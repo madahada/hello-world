@@ -1,3 +1,0 @@
-# hello-world
-
-nix zu sehen hier....
